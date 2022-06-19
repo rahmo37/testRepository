@@ -47,7 +47,7 @@ public class LogicalOperator {
 				System.out.println("Who is you favorite Bangladeshi neta??");
 				response = sc.next();
 			}
-			System.out.println("Bye now!!!");
+			System.out.println("Bye Bye now!!!");
 
 		}
 
