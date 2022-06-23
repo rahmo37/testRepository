@@ -10,7 +10,7 @@ public class comma {
 		for (int a = 0; a < s.length; a++) {
 			comma.add(',');
 		}
-
+		//sets the last value of the array to period
 		comma.set(s.length - 1, '.');
 
 		for (int i = 0; i < s.length; i++) {
